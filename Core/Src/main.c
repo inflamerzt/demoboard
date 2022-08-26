@@ -21,7 +21,6 @@
 #include "tim.h"
 #include "usb_otg.h"
 #include "gpio.h"
-#include "tim.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */

@@ -146,6 +146,7 @@ void updMtrSp(void *argument)
   /* Infinite loop */
   for(;;)
   {
+	osDelay(2);
     osDelay(1);
   }
   /* USER CODE END updMtrSp */
